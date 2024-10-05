@@ -1,6 +1,5 @@
 mediapipe
 streamlit
 ultralytics
+numpy
 opencv-python-headless
-opencv-python
-libgl1
